@@ -1,0 +1,1 @@
+XEAD Driver Javascript　サンプルXEAD の拡張を独自に拡張するために、XF000 Scriptランチャーのスクリプトを記述しJavascriptから、JDBCを経由し、SwingのJTableへQueryの結果を表示します。接続例はPosetgreSQLです。passwordは接続できるように変更してください。動作確認した環境WindowsXP pro SP3XEAD Driverが動作する環境であること。
