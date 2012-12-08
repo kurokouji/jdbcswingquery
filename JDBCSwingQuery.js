@@ -2,7 +2,7 @@
 //http://music.geocities.jp/kreisler_liebesleid/java/JDBC/SwingJDBC2.html
 //Swing JDBC アプリケーション
 //JDBCSwingQuery XEAD Driver Rhino へ書き換え 2012-12-05 SHIMOYAMA Yoshihiro 
-//起動方法　CドライブにRhinoフォルダを作成、js.jar、postgresql-9.2-1002.jdbc4.jarをおく
+//起動方法　CドライブにJDBCSwingQueryフォルダを作成、js.jar、postgresql-9.2-1002.jdbc4.jarをおく
 //コマンドプロンプトで
 //cd c:\JDBCSwingQuery
 //java -classpath .;js.jar;postgresql-9.2-1002.jdbc4.jar org.mozilla.javascript.tools.shell.Main -w -debug JDBCSwingQuery.js
